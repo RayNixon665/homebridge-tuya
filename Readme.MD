@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/iRayanKhan/homebridge-tuya/main/assets/Tuya-Plugin-Branding.png" height="100"><br>
-</p>
-
 
 <span align="center">
 
@@ -11,7 +7,7 @@
 </span>
 
 
-Fork From iRayanKhan/homebridge-tuya With specific focus on better support for Bunnings grid connect devices.
+Fork From iRayanKhan/homebridge-tuya With specific focus on better support for Bunnings grid connect devices sold in Australia.
 
 Control your supported Tuya accessories locally in HomeKit
 
