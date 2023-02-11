@@ -7,14 +7,11 @@
 
 # Homebridge-Tuya
 
-[![npm](https://img.shields.io/npm/v/homebridge-tuya.svg)](https://www.npmjs.com/package/homebridge-tuya)
-[![npm](https://img.shields.io/npm/dt/homebridge-tuya.svg)](https://www.npmjs.com/package/homebridge-tuya)
-[![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
-
 
 </span>
 
 
+Fork From iRayanKhan/homebridge-tuya With specific focus on better support for Bunnings grid connect devices.
 
 Control your supported Tuya accessories locally in HomeKit
 
