@@ -1,7 +1,7 @@
 {
   "name": "homebridge-tuya_RaysFork",
 
-  "version": "V1",
+  "version": "1.0.0",
 
   "description": "Homebridge plugin for TuyAPI With Bunnings Grid Connect support",
   "main": "index.js",
