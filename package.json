@@ -1,9 +1,9 @@
 {
-  "name": "homebridge-tuya",
+  "name": "homebridge-tuya_RaysFork",
 
-  "version": "3.0.0-beta.2",
+  "version": "3.0.0-beta_Fork",
 
-  "description": "🏠 Offical Homebridge plugin for TuyAPI ",
+  "description": "Homebridge plugin for TuyAPI With Bunnings Grid Connect support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,14 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iRayanKhan/homebridge-tuya.git"
+    "url": "git+https://github.com/RayNixon665/homebridge-tuya_RaysFork.git"
   },
   "author": "Rayan Khan",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/iRayanKhan/homebridge-tuya/issues"
-  },
-  "homepage": "https://github.com/iRayanKhan/homebridge-tuya#readme",
+  "homepage": "https://github.com/RayNixon665/homebridge-tuya_RaysFork",
   "dependencies": {
     "async": "^3.1.0",
     "commander": "^3.0.1",
