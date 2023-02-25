@@ -21,6 +21,7 @@ const SimpleHeaterAccessory = require('./lib/SimpleHeaterAccessory');
 const SimpleFanAccessory = require('./lib/SimpleFanAccessory');
 const SimpleFanAccessory2 = require('./lib/SimpleFanAccessory2');
 const SimpleFanLightAccessory = require('./lib/SimpleFanLightAccessory');
+const SimpleFanLightAccessory2 = require('./lib/SimpleFanLightAccessory2');
 const SwitchAccessory = require('./lib/SwitchAccessory');
 const ValveAccessory = require('./lib/ValveAccessory');
 const OilDiffuserAccessory = require('./lib/OilDiffuserAccessory');
@@ -50,6 +51,7 @@ const CLASS_DEF = {
     fan: SimpleFanAccessory,
     fan2: SimpleFanAccessory2,
     fanlight: SimpleFanLightAccessory,
+    fanlight2: SimpleFanLightAccessory2,
     watervalve: ValveAccessory,
     oildiffuser: OilDiffuserAccessory
 };
