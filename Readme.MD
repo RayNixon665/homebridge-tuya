@@ -8,15 +8,20 @@
 
 
 Fork From iRayanKhan/homebridge-tuya With specific focus on better support for Bunnings grid connect devices sold in Australia.
-install from terminal
+
+To install from terminal
+
 pnpm add github:RayNixon665/homebridge-tuya_RaysFork
-update using
+
+To update using
+
 pnpm update github:RayNixon665/homebridge-tuya_RaysFork
 
 if pnpm is not working, run this command from terminal
 
 wget -qO- https://get.pnpm.io/install.sh | ENV="$HOME/.bashrc" SHELL="$(which bash)" bash -
 Control your supported Tuya accessories locally in HomeKit
+
 
 * [Supported Device Types](#supported-device-types)
 * [Installation Instructions](#installation-instructions)
